@@ -111,19 +111,19 @@ A API estará disponível em `http://localhost:8000/`.
 <h3>Lista de Atores</h3>  
 <table border=0 style="border: 1.2px solid #c6c6c6 !important; border-spacing: 2px; width: auto !important;">
 <div align=center valign=top><img src="https://github.com/user-attachments/assets/72ef8380-62ba-461c-b4cd-5beeba81d62f" alt="lista de atores" style="margin: 0px !important; height: 400px !important;">
-</div></td></tr><tr></tr></table></div>
+</div></table></div>
 
 <div align="center">
 <h3>Lista de Generos</h3>  
 <table border=0 style="border: 1.2px solid #c6c6c6 !important; border-spacing: 2px; width: auto !important;">
 <div align=center valign=top><img src="https://github.com/user-attachments/assets/a42204f9-8e96-4154-8a47-ce75f2433c14" alt="lista de generos" style="margin: 0px !important; height: 400px !important;">
-</div></td></tr><tr></tr></table></div>
+</div></table></div>
 
 <div align="center">
 <h3>Lista de Filmes</h3>  
 <table border=0 style="border: 1.2px solid #c6c6c6 !important; border-spacing: 2px; width: auto !important;">
 <div align=center valign=top><img src="https://github.com/user-attachments/assets/5e3e836d-63ee-4bbd-b0a5-ecd47a5cbb15" alt="lista de filmes" style="margin: 0px !important; height: 400px !important;">
-</div></td></tr><tr></tr></table></div>
+</div></table></div>
 
 **Contribuições:**
 
