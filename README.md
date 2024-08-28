@@ -42,8 +42,8 @@ Este projeto é uma API RESTful construída com Django Rest Framework para forne
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/ldickmann/flixapi.git
-   cd flixapi
+   git clone https://github.com/ldickmann/FlixApi.git
+   cd FlixApi
    ```
 
 2. **Crie um ambiente virtual:**
@@ -128,10 +128,6 @@ A API estará disponível em `http://localhost:8000/`.
 **Contribuições:**
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-**Licença:**
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais detalhes.
 
 **Contato:**
 
