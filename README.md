@@ -39,38 +39,6 @@ Este projeto é uma API RESTful construída com Django Rest Framework para forne
 
 ### Como Executar o Projeto
 
-1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/ldickmann/FlixApi.git
-   cd FlixApi
-   ```
-
-2. **Crie um ambiente virtual:**
-
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate  # No Windows: .venv\Scripts\activate
-   ```
-
-3. **Instale as dependências:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Execute as migrações:**
-
-   ```bash
-   python manage.py migrate
-   ```
-
-5. **Inicie o servidor de desenvolvimento:**
-
-   ```bash
-   python manage.py runserver
-   ```
-
 A API estará disponível em `https://ldickmann.pythonanywhere.com/api/v1/`.
 
 ### Endpoints da API
