@@ -71,7 +71,7 @@ Este projeto é uma API RESTful construída com Django Rest Framework para forne
    python manage.py runserver
    ```
 
-A API estará disponível em `http://localhost:8000/`.
+A API estará disponível em `https://ldickmann.pythonanywhere.com/api/v1/`.
 
 ### Endpoints da API
 
