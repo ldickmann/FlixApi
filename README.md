@@ -66,13 +66,6 @@ A API estará disponível em `https://ldickmann.pythonanywhere.com/api/v1/`.
     * `PUT /api/v1/reviews/<id>/`: Atualiza uma avaliação existente
     * `DELETE /api/v1/reviews/<id>/`: Exclui uma avaliação
 
-**Observações:**
-
-* Substitua `seu-usuario` pelo seu nome de usuário do GitHub.
-* Para produção, considere usar um banco de dados mais robusto como PostgreSQL ou MySQL.
-* Adicione autenticação e autorização para proteger seus endpoints, se necessário.
-* Documente detalhadamente cada endpoint, incluindo os parâmetros esperados e as respostas possíveis.
-
 ## Capturas de tela do Postman
 
 <div align="center">
